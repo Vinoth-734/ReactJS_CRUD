@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Nagulan",
+        "age": 22,
+        "city": "mevani"
+    },
+    {
+        "id": 2,
+        "name": "vinoth",
+        "age": 21,
+        "city": "erode"
+    },
+    {
+        "id": 3,
+        "name": "Mugesh",
+        "age": 20,
+        "city": "keevani"
+    },
+    {
+        "id": 4,
+        "name": "Naveen",
+        "age": 20,
+        "city": "tirupur"
+    },
+    {
+        "id": 5,
+        "name": "Pavish",
+        "age": 19,
+        "city": "erode"
+    },
+    {
+        "id": 6,
+        "name": "venkat",
+        "age": 18,
+        "city": "erode"
+    },
+    {
+        "id": 7,
+        "name": "navaneethan",
+        "age": 22,
+        "city": "avinashi"
+    },
+    {
+        "id": 8,
+        "name": "Sathish",
+        "age": 19,
+        "city": "erode"
+    },
+    {
+        "id": 9,
+        "name": "Sankar",
+        "age": 20,
+        "city": "erode"
+    },
+    {
+        "id": 10,
+        "name": "Divya",
+        "age": 22,
+        "city": "Hometown"
+    },
+    {
+        "id": 11,
+        "name": "Ramya",
+        "age": 22,
+        "city": "College"
+    }
+]
